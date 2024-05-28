@@ -1,0 +1,1920 @@
+{
+   "Sledge": {
+     "primary_options": [
+       "ASSAULT RIFLE",
+       "SHOTGUN"
+     ],
+     "secondary_options": [
+       "HANDGUN"
+     ],
+     "orgs": [
+       "Redhammer"
+     ],
+     "role": [
+       "BREACH, ",
+       "ANTI-GADGET"
+     ],
+     "speed": 3,
+     "health": 1,
+     "difficulty": 1,
+     "gadgets": [
+       "Frag Grenade",
+       "Stun Grenade",
+       "EMP Grenade"
+     ],
+     "sex": "Male",
+     "continent": "Europe",
+     "release_year": 1
+   },
+   "Thatcher": {
+     "primary_options": [
+       "ASSAULT RIFLE",
+       "ASSAULT RIFLE",
+       "SHOTGUN"
+     ],
+     "secondary_options": [
+       "HANDGUN"
+     ],
+     "orgs": [
+       "Viperstrike"
+     ],
+     "role": [
+       "ANTI-GADGET, ",
+       "SUPPORT"
+     ],
+     "speed": 3,
+     "health": 1,
+     "difficulty": 1,
+     "gadgets": [
+       "Breach Charge",
+       "Claymore",
+       "EMP Grenade"
+     ],
+     "sex": "Male",
+     "continent": "Europe",
+     "release_year": 1
+   },
+   "Ash": {
+     "primary_options": [
+       "ASSAULT RIFLE",
+       "ASSAULT RIFLE"
+     ],
+     "secondary_options": [
+       "HANDGUN",
+       "HANDGUN"
+     ],
+     "orgs": [
+       "Redhammer"
+     ],
+     "role": [
+       "BREACH, ",
+       "Front Line"
+     ],
+     "speed": 1,
+     "health": 3,
+     "difficulty": 2,
+     "gadgets": [
+       "Breach Charge",
+       "Claymore"
+     ],
+     "sex": "Female",
+     "continent": "Asia",
+     "release_year": 1
+   },
+   "Thermite": {
+     "primary_options": [
+       "SHOTGUN",
+       "ASSAULT RIFLE"
+     ],
+     "secondary_options": [
+       "HANDGUN",
+       "HANDGUN"
+     ],
+     "orgs": [
+       "Redhammer"
+     ],
+     "role": [
+       "BREACH, ",
+       "SUPPORT"
+     ],
+     "speed": 2,
+     "health": 2,
+     "difficulty": 1,
+     "gadgets": [
+       "Smoke Grenade",
+       "Stun Grenade"
+     ],
+     "sex": "Male",
+     "continent": "North America",
+     "release_year": 1
+   },
+   "Twitch": {
+     "primary_options": [
+       "ASSAULT RIFLE",
+       "Marksman Rifle",
+       "SHOTGUN"
+     ],
+     "secondary_options": [
+       "HANDGUN",
+       "HANDGUN"
+     ],
+     "orgs": [
+       "Wolfguard"
+     ],
+     "role": [
+       "ANTI-GADGET, ",
+       "Intel"
+     ],
+     "speed": 2,
+     "health": 2,
+     "difficulty": 2,
+     "gadgets": [
+       "Smoke Grenade",
+       "Claymore"
+     ],
+     "sex": "Female",
+     "continent": "Europe",
+     "release_year": 1
+   },
+   "Montagne": {
+     "primary_options": [
+       "LE ROC SHIELD"
+     ],
+     "secondary_options": [
+       "HANDGUN",
+       "HANDGUN"
+     ],
+     "orgs": [
+       "Wolfguard"
+     ],
+     "role": [
+       "Intel, ",
+       "SUPPORT"
+     ],
+     "speed": 3,
+     "health": 1,
+     "difficulty": 3,
+     "gadgets": [
+       "HARD BREACH CHARGE",
+       "Smoke Grenade",
+       "EMP Grenade"
+     ],
+     "sex": "Male",
+     "continent": "Europe",
+     "release_year": 1
+   },
+   "Glaz": {
+     "primary_options": [
+       "Marksman Rifle"
+     ],
+     "secondary_options": [
+       "HANDGUN",
+       "Hand Cannon",
+       "Machine Pistol"
+     ],
+     "orgs": [
+       "Ghosteyes"
+     ],
+     "role": [
+       "Intel, ",
+       "SUPPORT"
+     ],
+     "speed": 1,
+     "health": 3,
+     "difficulty": 2,
+     "gadgets": [
+       "Smoke Grenade",
+       "Frag Grenade",
+       "Claymore"
+     ],
+     "sex": "Male",
+     "continent": "Asia",
+     "release_year": 1
+   },
+   "Fuze": {
+     "primary_options": [
+       "ASSAULT RIFLE",
+       "Light Machine Gun",
+       "Ballistic Shield"
+     ],
+     "secondary_options": [
+       "HANDGUN",
+       "HANDGUN"
+     ],
+     "orgs": [
+       "Redhammer"
+     ],
+     "role": [
+       "ANTI-GADGET"
+     ],
+     "speed": 3,
+     "health": 1,
+     "difficulty": 1,
+     "gadgets": [
+       "Breach Charge",
+       "HARD BREACH CHARGE",
+       "Smoke Grenade"
+     ],
+     "sex": "Male",
+     "continent": "Asia",
+     "release_year": 1
+   },
+   "Blitz": {
+     "primary_options": [
+       "G52-Tactical Shield"
+     ],
+     "secondary_options": [
+       "HANDGUN"
+     ],
+     "orgs": [
+       "Viperstrike"
+     ],
+     "role": [
+       "Front Line, ",
+       "MAP CONTROL"
+     ],
+     "speed": 2,
+     "health": 2,
+     "difficulty": 3,
+     "gadgets": [
+       "Smoke Grenade",
+       "Breach Charge"
+     ],
+     "sex": "Male",
+     "continent": "Europe",
+     "release_year": 1
+   },
+   "IQ": {
+     "primary_options": [
+       "ASSAULT RIFLE",
+       "ASSAULT RIFLE",
+       "Light Machine Gun"
+     ],
+     "secondary_options": [
+       "HANDGUN"
+     ],
+     "orgs": [
+       "Nighthaven"
+     ],
+     "role": [
+       "Intel, ",
+       "SUPPORT"
+     ],
+     "speed": 1,
+     "health": 3,
+     "difficulty": 3,
+     "gadgets": [
+       "Breach Charge",
+       "Claymore"
+     ],
+     "sex": "Female",
+     "continent": "Europe",
+     "release_year": 1
+   },
+   "Buck": {
+     "primary_options": [
+       "ASSAULT RIFLE",
+       "Marksman Rifle"
+     ],
+     "secondary_options": [
+       "HANDGUN",
+       "Hand Cannon"
+     ],
+     "orgs": [
+       "Redhammer"
+     ],
+     "role": [
+       "BREACH, ",
+       "SUPPORT"
+     ],
+     "speed": 2,
+     "health": 2,
+     "difficulty": 1,
+     "gadgets": [
+       "HARD BREACH CHARGE",
+       "Stun Grenade"
+     ],
+     "sex": "Male",
+     "continent": "North America",
+     "release_year": 1
+   },
+   "Blackbeard": {
+     "primary_options": [
+       "ASSAULT RIFLE",
+       "Marksman Rifle"
+     ],
+     "secondary_options": [
+       "HANDGUN"
+     ],
+     "orgs": [
+       "Redhammer"
+     ],
+     "role": [
+       "SUPPORT"
+     ],
+     "speed": 2,
+     "health": 2,
+     "difficulty": 1,
+     "gadgets": [
+       "Stun Grenade",
+       "Claymore",
+       "EMP Grenade"
+     ],
+     "sex": "Male",
+     "continent": "North America",
+     "release_year": 1
+   },
+   "Capitao": {
+     "primary_options": [
+       "ASSAULT RIFLE",
+       "Light Machine Gun"
+     ],
+     "secondary_options": [
+       "HANDGUN",
+       "Hand Cannon"
+     ],
+     "orgs": [
+       "Viperstrike"
+     ],
+     "role": [
+       "Front Line, ",
+       "MAP CONTROL"
+     ],
+     "speed": 1,
+     "health": 3,
+     "difficulty": 2,
+     "gadgets": [
+       "Claymore",
+       "HARD BREACH CHARGE"
+     ],
+     "sex": "Male",
+     "continent": "South America",
+     "release_year": 1
+   },
+   "Hibana": {
+     "primary_options": [
+       "ASSAULT RIFLE",
+       "SHOTGUN"
+     ],
+     "secondary_options": [
+       "HANDGUN",
+       "Machine Pistol"
+     ],
+     "orgs": [
+       "Viperstrike"
+     ],
+     "role": [
+       "BREACH, ",
+       "Front Line"
+     ],
+     "speed": 1,
+     "health": 3,
+     "difficulty": 1,
+     "gadgets": [
+       "Stun Grenade",
+       "Breach Charge"
+     ],
+     "sex": "Female",
+     "continent": "Asia",
+     "release_year": 1
+   },
+   "Jackal": {
+     "primary_options": [
+       "ASSAULT RIFLE",
+       "SUBMACHINE GUN",
+       "SHOTGUN"
+     ],
+     "secondary_options": [
+       "HANDGUN",
+       "SHOTGUN"
+     ],
+     "orgs": [
+       "Viperstrike"
+     ],
+     "role": [
+       "Intel, ",
+       "MAP CONTROL"
+     ],
+     "speed": 2,
+     "health": 2,
+     "difficulty": 3,
+     "gadgets": [
+       "Claymore",
+       "Smoke Grenade"
+     ],
+     "sex": "Male",
+     "continent": "Europe",
+     "release_year": 2
+   },
+   "Ying": {
+     "primary_options": [
+       "Light Machine Gun",
+       "SHOTGUN"
+     ],
+     "secondary_options": [
+       "HANDGUN"
+     ],
+     "orgs": [
+       "Wolfguard"
+     ],
+     "role": [
+       "Front Line, ",
+       "MAP CONTROL"
+     ],
+     "speed": 2,
+     "health": 2,
+     "difficulty": 2,
+     "gadgets": [
+       "HARD BREACH CHARGE",
+       "Smoke Grenade"
+     ],
+     "sex": "Female",
+     "continent": "Asia",
+     "release_year": 2
+   },
+   "Zofia": {
+     "primary_options": [
+       "Light Machine Gun",
+       "ASSAULT RIFLE"
+     ],
+     "secondary_options": [
+       "HANDGUN"
+     ],
+     "orgs": [
+       "Ghosteyes"
+     ],
+     "role": [
+       "BREACH, ",
+       "ANTI-GADGET"
+     ],
+     "speed": 3,
+     "health": 1,
+     "difficulty": 1,
+     "gadgets": [
+       "Breach Charge",
+       "Claymore"
+     ],
+     "sex": "Female",
+     "continent": "Europe",
+     "release_year": 2
+   },
+   "Dokkaebi": {
+     "primary_options": [
+       "Marksman Rifle",
+       "SHOTGUN"
+     ],
+     "secondary_options": [
+       "Hand Cannon",
+       "Machine Pistol",
+       "Machine Pistol"
+     ],
+     "orgs": [
+       "Viperstrike"
+     ],
+     "role": [
+       "Intel, ",
+       "MAP CONTROL"
+     ],
+     "speed": 1,
+     "health": 3,
+     "difficulty": 2,
+     "gadgets": [
+       "Smoke Grenade",
+       "Stun Grenade",
+       "EMP Grenade"
+     ],
+     "sex": "Female",
+     "continent": "Asia",
+     "release_year": 2
+   },
+   "Lion": {
+     "primary_options": [
+       "ASSAULT RIFLE",
+       "Marksman Rifle",
+       "SHOTGUN"
+     ],
+     "secondary_options": [
+       "Hand Cannon",
+       "HANDGUN",
+       "HANDGUN"
+     ],
+     "orgs": [
+       "Wolfguard"
+     ],
+     "role": [
+       "Intel, ",
+       "MAP CONTROL"
+     ],
+     "speed": 2,
+     "health": 2,
+     "difficulty": 1,
+     "gadgets": [
+       "Stun Grenade",
+       "Claymore",
+       "EMP Grenade"
+     ],
+     "sex": "Male",
+     "continent": "Europe",
+     "release_year": 3
+   },
+   "Finka": {
+     "primary_options": [
+       "ASSAULT RIFLE",
+       "Light Machine Gun",
+       "SHOTGUN"
+     ],
+     "secondary_options": [
+       "HANDGUN",
+       "HANDGUN"
+     ],
+     "orgs": [
+       "Nighthaven"
+     ],
+     "role": [
+       "Front Line, ",
+       "SUPPORT"
+     ],
+     "speed": 2,
+     "health": 2,
+     "difficulty": 1,
+     "gadgets": [
+       "HARD BREACH CHARGE",
+       "Stun Grenade",
+       "Smoke Grenade",
+       "Frag Grenade"
+     ],
+     "sex": "Female",
+     "continent": "Europe",
+     "release_year": 3
+   },
+   "Maverick": {
+     "primary_options": [
+       "ASSAULT RIFLE",
+       "ASSAULT RIFLE"
+     ],
+     "secondary_options": [
+       "HANDGUN"
+     ],
+     "orgs": [
+       "Ghosteyes"
+     ],
+     "role": [
+       "BREACH, ",
+       "Front Line"
+     ],
+     "speed": 1,
+     "health": 3,
+     "difficulty": 2,
+     "gadgets": [
+       "Claymore",
+       "Stun Grenade"
+     ],
+     "sex": "Male",
+     "continent": "North America",
+     "release_year": 3
+   },
+   "Nomad": {
+     "primary_options": [
+       "ASSAULT RIFLE",
+       "ASSAULT RIFLE"
+     ],
+     "secondary_options": [
+       "HANDGUN",
+       "HANDGUN"
+     ],
+     "orgs": [
+       "Wolfguard"
+     ],
+     "role": [
+       "Front Line, ",
+       "MAP CONTROL"
+     ],
+     "speed": 2,
+     "health": 2,
+     "difficulty": 3,
+     "gadgets": [
+       "Breach Charge",
+       "Stun Grenade"
+     ],
+     "sex": "Female",
+     "continent": "Africa",
+     "release_year": 3
+   },
+   "Gridlock": {
+     "primary_options": [
+       "ASSAULT RIFLE",
+       "Light Machine Gun"
+     ],
+     "secondary_options": [
+       "SHOTGUN",
+       "HANDGUN"
+     ],
+     "orgs": [
+       "Redhammer"
+     ],
+     "role": [
+       "SUPPORT, ",
+       "MAP CONTROL"
+     ],
+     "speed": 3,
+     "health": 1,
+     "difficulty": 1,
+     "gadgets": [
+       "Smoke Grenade",
+       "Frag Grenade",
+       "EMP Grenade"
+     ],
+     "sex": "Female",
+     "continent": "Australia",
+     "release_year": 4
+   },
+   "Nokk": {
+     "primary_options": [
+       "SUBMACHINE GUN",
+       "SHOTGUN"
+     ],
+     "secondary_options": [
+       "HANDGUN",
+       "HANDGUN"
+     ],
+     "orgs": [
+       "Ghosteyes"
+     ],
+     "role": [
+       "Front Line, ",
+       "MAP CONTROL"
+     ],
+     "speed": 2,
+     "health": 2,
+     "difficulty": 3,
+     "gadgets": [
+       "HARD BREACH CHARGE",
+       "Frag Grenade",
+       "EMP Grenade"
+     ],
+     "sex": "Female",
+     "continent": "Europe",
+     "release_year": 4
+   },
+   "Amaru": {
+     "primary_options": [
+       "Light Machine Gun",
+       "SHOTGUN"
+     ],
+     "secondary_options": [
+       "Hand Cannon",
+       "Machine Pistol",
+       "SHOTGUN"
+     ],
+     "orgs": [
+       "Redhammer"
+     ],
+     "role": [
+       "Front Line, ",
+       "MAP CONTROL"
+     ],
+     "speed": 2,
+     "health": 2,
+     "difficulty": 2,
+     "gadgets": [
+       "Stun Grenade",
+       "HARD BREACH CHARGE"
+     ],
+     "sex": "Female",
+     "continent": "South America",
+     "release_year": 4
+   },
+   "Kali": {
+     "primary_options": [
+       "Marksman Rifle"
+     ],
+     "secondary_options": [
+       "Machine Pistol",
+       "Machine Pistol",
+       "HANDGUN"
+     ],
+     "orgs": [
+       "Nighthaven"
+     ],
+     "role": [
+       "ANTI-GADGET, ",
+       "SUPPORT"
+     ],
+     "speed": 2,
+     "health": 2,
+     "difficulty": 2,
+     "gadgets": [
+       "Breach Charge",
+       "Claymore"
+     ],
+     "sex": "Female",
+     "continent": "Asia",
+     "release_year": 4
+   },
+   "Iana": {
+     "primary_options": [
+       "ASSAULT RIFLE",
+       "ASSAULT RIFLE"
+     ],
+     "secondary_options": [
+       "HANDGUN",
+       "Hand Cannon"
+     ],
+     "orgs": [
+       "Ghosteyes"
+     ],
+     "role": [
+       "Front Line, ",
+       "Intel"
+     ],
+     "speed": 2,
+     "health": 2,
+     "difficulty": 1,
+     "gadgets": [
+       "Smoke Grenade",
+       "Stun Grenade"
+     ],
+     "sex": "Female",
+     "continent": "Europe",
+     "release_year": 5
+   },
+   "Ace": {
+     "primary_options": [
+       "ASSAULT RIFLE",
+       "SHOTGUN"
+     ],
+     "secondary_options": [
+       "HANDGUN"
+     ],
+     "orgs": [
+       "Nighthaven"
+     ],
+     "role": [
+       "BREACH, ",
+       "ANTI-GADGET"
+     ],
+     "speed": 2,
+     "health": 2,
+     "difficulty": 1,
+     "gadgets": [
+       "Breach Charge",
+       "Claymore"
+     ],
+     "sex": "Male",
+     "continent": "Europe",
+     "release_year": 5
+   },
+   "Zero": {
+     "primary_options": [
+       "ASSAULT RIFLE",
+       "SUBMACHINE GUN"
+     ],
+     "secondary_options": [
+       "HANDGUN",
+       "Hand Cannon"
+     ],
+     "orgs": [
+       "Ghosteyes"
+     ],
+     "role": [
+       "ANTI-GADGET, ",
+       "Intel"
+     ],
+     "speed": 1,
+     "health": 3,
+     "difficulty": 3,
+     "gadgets": [
+       "HARD BREACH CHARGE",
+       "Claymore"
+     ],
+     "sex": "Male",
+     "continent": "North America",
+     "release_year": 5
+   },
+   "Flores": {
+     "primary_options": [
+       "ASSAULT RIFLE",
+       "Marksman Rifle"
+     ],
+     "secondary_options": [
+       "HANDGUN"
+     ],
+     "orgs": [
+       "Ghosteyes"
+     ],
+     "role": [
+       "ANTI-GADGET, ",
+       "Intel"
+     ],
+     "speed": 2,
+     "health": 2,
+     "difficulty": 2,
+     "gadgets": [
+       "Stun Grenade",
+       "Claymore"
+     ],
+     "sex": "Male",
+     "continent": "South America",
+     "release_year": 6
+   },
+   "Osa": {
+     "primary_options": [
+       "ASSAULT RIFLE",
+       "SUBMACHINE GUN"
+     ],
+     "secondary_options": [
+       "HANDGUN"
+     ],
+     "orgs": [
+       "Nighthaven"
+     ],
+     "role": [
+       "Intel, ",
+       "SUPPORT"
+     ],
+     "speed": 3,
+     "health": 1,
+     "difficulty": 2,
+     "gadgets": [
+       "Smoke Grenade",
+       "Claymore",
+       "EMP Grenade"
+     ],
+     "sex": "Female",
+     "continent": "Europe",
+     "release_year": 6
+   },
+   "Sens": {
+     "primary_options": [
+       "ASSAULT RIFLE",
+       "Marksman Rifle"
+     ],
+     "secondary_options": [
+       "HANDGUN",
+       "Hand Cannon"
+     ],
+     "orgs": [
+       "Wolfguard"
+     ],
+     "role": [
+       "SUPPORT, ",
+       "MAP CONTROL"
+     ],
+     "speed": 1,
+     "health": 3,
+     "difficulty": 2,
+     "gadgets": [
+       "Claymore",
+       "HARD BREACH CHARGE"
+     ],
+     "sex": "Female",
+     "continent": "Europe",
+     "release_year": 7
+   },
+   "Grim": {
+     "primary_options": [
+       "ASSAULT RIFLE",
+       "SHOTGUN"
+     ],
+     "secondary_options": [
+       "HANDGUN",
+       "HANDGUN"
+     ],
+     "orgs": [
+       "Nighthaven"
+     ],
+     "role": [
+       "Front Line, ",
+       "MAP CONTROL"
+     ],
+     "speed": 1,
+     "health": 3,
+     "difficulty": 1,
+     "gadgets": [
+       "Breach Charge",
+       "Claymore",
+       "HARD BREACH CHARGE"
+     ],
+     "sex": "Male",
+     "continent": "Asia",
+     "release_year": 7
+   },
+   "Brava": {
+     "primary_options": [
+       "ASSAULT RIFLE",
+       "Marksman Rifle"
+     ],
+     "secondary_options": [
+       "HANDGUN",
+       "SHOTGUN"
+     ],
+     "orgs": [
+       "Viperstrike"
+     ],
+     "role": [
+       "Intel, ",
+       "ANTI-GADGET"
+     ],
+     "speed": 1,
+     "health": 3,
+     "difficulty": 3,
+     "gadgets": [
+       "Smoke Grenade",
+       "Claymore"
+     ],
+     "sex": "Female",
+     "continent": "South America",
+     "release_year": 8
+   },
+   "Smoke": {
+     "primary_options": [
+       "SHOTGUN",
+       "SUBMACHINE GUN"
+     ],
+     "secondary_options": [
+       "HANDGUN",
+       "Machine Pistol"
+     ],
+     "orgs": [
+       "Nighthaven"
+     ],
+     "role": [
+       "ANTI-ENTRY, ",
+       "TRAPPER"
+     ],
+     "speed": 2,
+     "health": 2,
+     "difficulty": 2,
+     "gadgets": [
+       "Barbed Wire",
+       "PROXIMITY ALARM"
+     ],
+     "sex": "Male",
+     "continent": "Europe",
+     "release_year": 1
+   },
+   "Mute": {
+     "primary_options": [
+       "SUBMACHINE GUN",
+       "SHOTGUN"
+     ],
+     "secondary_options": [
+       "HANDGUN",
+       "Machine Pistol"
+     ],
+     "orgs": [
+       "Viperstrike"
+     ],
+     "role": [
+       "ANTI-GADGET, ",
+       "CROWD CONTROL"
+     ],
+     "speed": 3,
+     "health": 1,
+     "difficulty": 1,
+     "gadgets": [
+       "Bulletproof camera",
+       "Nitro Cell"
+     ],
+     "sex": "Male",
+     "continent": "Europe",
+     "release_year": 1
+   },
+   "Castle": {
+     "primary_options": [
+       "SUBMACHINE GUN",
+       "SHOTGUN"
+     ],
+     "secondary_options": [
+       "HANDGUN",
+       "SHOTGUN",
+       "HANDGUN"
+     ],
+     "orgs": [
+       "Wolfguard"
+     ],
+     "role": [
+       "ANTI-ENTRY, ",
+       "SUPPORT"
+     ],
+     "speed": 2,
+     "health": 2,
+     "difficulty": 2,
+     "gadgets": [
+       "PROXIMITY ALARM"
+     ],
+     "sex": "Male",
+     "continent": "North America",
+     "release_year": 1
+   },
+   "Pulse": {
+     "primary_options": [
+       "SUBMACHINE GUN",
+       "SHOTGUN"
+     ],
+     "secondary_options": [
+       "HANDGUN",
+       "HANDGUN"
+     ],
+     "orgs": [
+       "Nighthaven"
+     ],
+     "role": [
+       "Intel, ",
+       "SUPPORT"
+     ],
+     "speed": 1,
+     "health": 3,
+     "difficulty": 3,
+     "gadgets": [
+       "Nitro Cell",
+       "Deployable Shield",
+       "Observation Blocker"
+     ],
+     "sex": "Male",
+     "continent": "North America",
+     "release_year": 1
+   },
+   "Doc": {
+     "primary_options": [
+       "SUBMACHINE GUN",
+       "SUBMACHINE GUN",
+       "SHOTGUN"
+     ],
+     "secondary_options": [
+       "HANDGUN",
+       "HANDGUN",
+       "HANDGUN"
+     ],
+     "orgs": [
+       "Wolfguard"
+     ],
+     "role": [
+       "SUPPORT"
+     ],
+     "speed": 3,
+     "health": 1,
+     "difficulty": 1,
+     "gadgets": [
+       "Bulletproof camera",
+       "Barbed Wire"
+     ],
+     "sex": "Male",
+     "continent": "Europe",
+     "release_year": 1
+   },
+   "Rook": {
+     "primary_options": [
+       "SUBMACHINE GUN",
+       "SUBMACHINE GUN",
+       "SHOTGUN"
+     ],
+     "secondary_options": [
+       "HANDGUN",
+       "HANDGUN"
+     ],
+     "orgs": [
+       "Viperstrike"
+     ],
+     "role": [
+       "SUPPORT"
+     ],
+     "speed": 3,
+     "health": 1,
+     "difficulty": 1,
+     "gadgets": [
+       "PROXIMITY ALARM",
+       "Impact Grenade",
+       "Observation Blocker"
+     ],
+     "sex": "Male",
+     "continent": "Europe",
+     "release_year": 1
+   },
+   "Kapkan": {
+     "primary_options": [
+       "SUBMACHINE GUN",
+       "SHOTGUN"
+     ],
+     "secondary_options": [
+       "HANDGUN",
+       "HANDGUN"
+     ],
+     "orgs": [
+       "Redhammer"
+     ],
+     "role": [
+       "ANTI-ENTRY, ",
+       "TRAPPER"
+     ],
+     "speed": 2,
+     "health": 2,
+     "difficulty": 1,
+     "gadgets": [
+       "Impact Grenade",
+       "Nitro Cell"
+     ],
+     "sex": "Male",
+     "continent": "Asia",
+     "release_year": 1
+   },
+   "Tachanka": {
+     "primary_options": [
+       "Light Machine Gun",
+       "SUBMACHINE GUN"
+     ],
+     "secondary_options": [
+       "HANDGUN",
+       "HANDGUN",
+       "Machine Pistol"
+     ],
+     "orgs": [
+       "Redhammer"
+     ],
+     "role": [
+       "ANTI-ENTRY, ",
+       "CROWD CONTROL"
+     ],
+     "speed": 3,
+     "health": 1,
+     "difficulty": 1,
+     "gadgets": [
+       "Barbed Wire",
+       "PROXIMITY ALARM",
+       "Deployable Shield"
+     ],
+     "sex": "Male",
+     "continent": "Europe",
+     "release_year": 1
+   },
+   "Jager": {
+     "primary_options": [
+       "SHOTGUN",
+       "ASSAULT RIFLE"
+     ],
+     "secondary_options": [
+       "HANDGUN"
+     ],
+     "orgs": [
+       "Viperstrike"
+     ],
+     "role": [
+       "ANTI-GADGET, ",
+       "SUPPORT"
+     ],
+     "speed": 2,
+     "health": 2,
+     "difficulty": 2,
+     "gadgets": [
+       "Bulletproof camera",
+       "Observation Blocker"
+     ],
+     "sex": "Male",
+     "continent": "Europe",
+     "release_year": 1
+   },
+   "Bandit": {
+     "primary_options": [
+       "SUBMACHINE GUN",
+       "SHOTGUN"
+     ],
+     "secondary_options": [
+       "HANDGUN"
+     ],
+     "orgs": [
+       "Wolfguard"
+     ],
+     "role": [
+       "ANTI-ENTRY, ",
+       "ANTI-GADGET"
+     ],
+     "speed": 1,
+     "health": 3,
+     "difficulty": 1,
+     "gadgets": [
+       "Barbed Wire",
+       "Nitro Cell"
+     ],
+     "sex": "Male",
+     "continent": "Europe",
+     "release_year": 1
+   },
+   "Frost": {
+     "primary_options": [
+       "SHOTGUN",
+       "SUBMACHINE GUN"
+     ],
+     "secondary_options": [
+       "HANDGUN",
+       "SHOTGUN"
+     ],
+     "orgs": [
+       "Wolfguard"
+     ],
+     "role": [
+       "ANTI-ENTRY, ",
+       "TRAPPER"
+     ],
+     "speed": 2,
+     "health": 2,
+     "difficulty": 1,
+     "gadgets": [
+       "Bulletproof camera",
+       "Deployable Shield"
+     ],
+     "sex": "Female",
+     "continent": "North America",
+     "release_year": 1
+   },
+   "Valkyrie": {
+     "primary_options": [
+       "SUBMACHINE GUN",
+       "SHOTGUN"
+     ],
+     "secondary_options": [
+       "HANDGUN"
+     ],
+     "orgs": [
+       "Ghosteyes"
+     ],
+     "role": [
+       "Intel, ",
+       "SUPPORT"
+     ],
+     "speed": 2,
+     "health": 2,
+     "difficulty": 2,
+     "gadgets": [
+       "Impact Grenade",
+       "Nitro Cell"
+     ],
+     "sex": "Female",
+     "continent": "North America",
+     "release_year": 1
+   },
+   "Caveira": {
+     "primary_options": [
+       "SUBMACHINE GUN",
+       "SHOTGUN"
+     ],
+     "secondary_options": [],
+     "orgs": [
+       "Ghosteyes"
+     ],
+     "role": [
+       "Intel, ",
+       "CROWD CONTROL"
+     ],
+     "speed": 1,
+     "health": 3,
+     "difficulty": 3,
+     "gadgets": [
+       "PROXIMITY ALARM",
+       "Impact Grenade",
+       "Observation Blocker"
+     ],
+     "sex": "Female",
+     "continent": "South America",
+     "release_year": 1
+   },
+   "Echo": {
+     "primary_options": [
+       "SUBMACHINE GUN",
+       "SHOTGUN"
+     ],
+     "secondary_options": [
+       "HANDGUN",
+       "Machine Pistol"
+     ],
+     "orgs": [
+       "Viperstrike"
+     ],
+     "role": [
+       "Intel, ",
+       "CROWD CONTROL"
+     ],
+     "speed": 2,
+     "health": 2,
+     "difficulty": 3,
+     "gadgets": [
+       "Impact Grenade",
+       "Deployable Shield"
+     ],
+     "sex": "Male",
+     "continent": "Asia",
+     "release_year": 1
+   },
+   "Mira": {
+     "primary_options": [
+       "SUBMACHINE GUN",
+       "SHOTGUN"
+     ],
+     "secondary_options": [
+       "HANDGUN",
+       "SHOTGUN"
+     ],
+     "orgs": [
+       "Viperstrike"
+     ],
+     "role": [
+       "Intel, ",
+       "SUPPORT"
+     ],
+     "speed": 3,
+     "health": 1,
+     "difficulty": 3,
+     "gadgets": [
+       "PROXIMITY ALARM",
+       "Nitro Cell"
+     ],
+     "sex": "Female",
+     "continent": "Europe",
+     "release_year": 2
+   },
+   "Lesion": {
+     "primary_options": [
+       "SHOTGUN",
+       "SUBMACHINE GUN"
+     ],
+     "secondary_options": [
+       "HANDGUN",
+       "SHOTGUN"
+     ],
+     "orgs": [
+       "Ghosteyes"
+     ],
+     "role": [
+       "ANTI-ENTRY, ",
+       "TRAPPER"
+     ],
+     "speed": 2,
+     "health": 2,
+     "difficulty": 1,
+     "gadgets": [
+       "Impact Grenade",
+       "Bulletproof camera"
+     ],
+     "sex": "Male",
+     "continent": "Asia",
+     "release_year": 2
+   },
+   "Ela": {
+     "primary_options": [
+       "SUBMACHINE GUN",
+       "SHOTGUN"
+     ],
+     "secondary_options": [
+       "HANDGUN"
+     ],
+     "orgs": [
+       "Nighthaven"
+     ],
+     "role": [
+       "CROWD CONTROL, ",
+       "TRAPPER"
+     ],
+     "speed": 2,
+     "health": 2,
+     "difficulty": 1,
+     "gadgets": [
+       "Barbed Wire",
+       "Deployable Shield",
+       "Observation Blocker"
+     ],
+     "sex": "Female",
+     "continent": "Europe",
+     "release_year": 2
+   },
+   "Vigil": {
+     "primary_options": [
+       "SUBMACHINE GUN",
+       "SHOTGUN"
+     ],
+     "secondary_options": [
+       "Machine Pistol",
+       "Machine Pistol"
+     ],
+     "orgs": [
+       "Ghosteyes"
+     ],
+     "role": [
+       "ANTI-GADGET, ",
+       "CROWD CONTROL"
+     ],
+     "speed": 1,
+     "health": 3,
+     "difficulty": 3,
+     "gadgets": [
+       "Bulletproof camera",
+       "Impact Grenade"
+     ],
+     "sex": "Male",
+     "continent": "Asia",
+     "release_year": 2
+   },
+   "Maestro": {
+     "primary_options": [
+       "Light Machine Gun",
+       "SHOTGUN"
+     ],
+     "secondary_options": [
+       "HANDGUN",
+       "HANDGUN"
+     ],
+     "orgs": [
+       "Viperstrike"
+     ],
+     "role": [
+       "ANTI-GADGET, ",
+       "Intel"
+     ],
+     "speed": 3,
+     "health": 1,
+     "difficulty": 2,
+     "gadgets": [
+       "Barbed Wire",
+       "Impact Grenade",
+       "Observation Blocker"
+     ],
+     "sex": "Male",
+     "continent": "Europe",
+     "release_year": 3
+   },
+   "Alibi": {
+     "primary_options": [
+       "SUBMACHINE GUN",
+       "SHOTGUN"
+     ],
+     "secondary_options": [
+       "HANDGUN",
+       "HANDGUN"
+     ],
+     "orgs": [
+       "Viperstrike"
+     ],
+     "role": [
+       "Intel, ",
+       "TRAPPER"
+     ],
+     "speed": 1,
+     "health": 3,
+     "difficulty": 3,
+     "gadgets": [
+       "PROXIMITY ALARM",
+       "Observation Blocker"
+     ],
+     "sex": "Female",
+     "continent": "Africa",
+     "release_year": 3
+   },
+   "Clash": {
+     "primary_options": [
+       "CCE Shield"
+     ],
+     "secondary_options": [
+       "HANDGUN",
+       "Machine Pistol",
+       "SHOTGUN"
+     ],
+     "orgs": [
+       "Wolfguard"
+     ],
+     "role": [
+       "Intel, ",
+       "CROWD CONTROL"
+     ],
+     "speed": 3,
+     "health": 1,
+     "difficulty": 3,
+     "gadgets": [
+       "Barbed Wire",
+       "Impact Grenade"
+     ],
+     "sex": "Female",
+     "continent": "Europe",
+     "release_year": 3
+   },
+   "Kaid": {
+     "primary_options": [
+       "SUBMACHINE GUN",
+       "SHOTGUN"
+     ],
+     "secondary_options": [
+       "HANDGUN",
+       "HANDGUN"
+     ],
+     "orgs": [
+       "Redhammer"
+     ],
+     "role": [
+       "ANTI-ENTRY, ",
+       "ANTI-GADGET"
+     ],
+     "speed": 3,
+     "health": 1,
+     "difficulty": 2,
+     "gadgets": [
+       "Barbed Wire",
+       "Nitro Cell",
+       "Observation Blocker"
+     ],
+     "sex": "Male",
+     "continent": "Africa",
+     "release_year": 3
+   },
+   "Mozzie": {
+     "primary_options": [
+       "ASSAULT RIFLE",
+       "SUBMACHINE GUN"
+     ],
+     "secondary_options": [
+       "HANDGUN"
+     ],
+     "orgs": [
+       "Ghosteyes"
+     ],
+     "role": [
+       "ANTI-GADGET, ",
+       "Intel"
+     ],
+     "speed": 2,
+     "health": 2,
+     "difficulty": 2,
+     "gadgets": [
+       "Barbed Wire",
+       "Nitro Cell"
+     ],
+     "sex": "Male",
+     "continent": "Australia",
+     "release_year": 4
+   },
+   "Warden": {
+     "primary_options": [
+       "SHOTGUN",
+       "SUBMACHINE GUN"
+     ],
+     "secondary_options": [
+       "HANDGUN",
+       "Machine Pistol"
+     ],
+     "orgs": [
+       "Ghosteyes"
+     ],
+     "role": [
+       "ANTI-GADGET, ",
+       "Intel"
+     ],
+     "speed": 3,
+     "health": 1,
+     "difficulty": 2,
+     "gadgets": [
+       "Deployable Shield",
+       "Nitro Cell",
+       "Observation Blocker"
+     ],
+     "sex": "Male",
+     "continent": "North America",
+     "release_year": 4
+   },
+   "Goyo": {
+     "primary_options": [
+       "SUBMACHINE GUN",
+       "SHOTGUN"
+     ],
+     "secondary_options": [
+       "HANDGUN"
+     ],
+     "orgs": [
+       "Redhammer"
+     ],
+     "role": [
+       "ANTI-ENTRY, ",
+       "TRAPPER"
+     ],
+     "speed": 2,
+     "health": 2,
+     "difficulty": 2,
+     "gadgets": [
+       "PROXIMITY ALARM",
+       "Bulletproof camera",
+       "Impact Grenade"
+     ],
+     "sex": "Male",
+     "continent": "North America",
+     "release_year": 4
+   },
+   "Wamai": {
+     "primary_options": [
+       "ASSAULT RIFLE",
+       "SUBMACHINE GUN"
+     ],
+     "secondary_options": [
+       "HANDGUN",
+       "HANDGUN"
+     ],
+     "orgs": [
+       "Nighthaven"
+     ],
+     "role": [
+       "ANTI-GADGET, ",
+       "TRAPPER"
+     ],
+     "speed": 2,
+     "health": 2,
+     "difficulty": 2,
+     "gadgets": [
+       "PROXIMITY ALARM",
+       "Impact Grenade"
+     ],
+     "sex": "Male",
+     "continent": "Africa",
+     "release_year": 4
+   },
+   "Oryx": {
+     "primary_options": [
+       "SHOTGUN",
+       "SUBMACHINE GUN"
+     ],
+     "secondary_options": [
+       "HANDGUN",
+       "HANDGUN"
+     ],
+     "orgs": [
+       "Redhammer"
+     ],
+     "role": [
+       "SUPPORT"
+     ],
+     "speed": 2,
+     "health": 2,
+     "difficulty": 2,
+     "gadgets": [
+       "Barbed Wire",
+       "PROXIMITY ALARM"
+     ],
+     "sex": "Male",
+     "continent": "Asia",
+     "release_year": 5
+   },
+   "Melusi": {
+     "primary_options": [
+       "SUBMACHINE GUN",
+       "SHOTGUN"
+     ],
+     "secondary_options": [
+       "HANDGUN"
+     ],
+     "orgs": [
+       "Wolfguard"
+     ],
+     "role": [
+       "Intel, ",
+       "CROWD CONTROL"
+     ],
+     "speed": 3,
+     "health": 1,
+     "difficulty": 1,
+     "gadgets": [
+       "Impact Grenade",
+       "Bulletproof camera"
+     ],
+     "sex": "Female",
+     "continent": "Africa",
+     "release_year": 5
+   },
+   "Aruni": {
+     "primary_options": [
+       "SUBMACHINE GUN",
+       "Marksman Rifle"
+     ],
+     "secondary_options": [
+       "HANDGUN"
+     ],
+     "orgs": [
+       "Nighthaven"
+     ],
+     "role": [
+       "ANTI-ENTRY, ",
+       "ANTI-GADGET"
+     ],
+     "speed": 3,
+     "health": 1,
+     "difficulty": 2,
+     "gadgets": [
+       "Bulletproof camera",
+       "Barbed Wire"
+     ],
+     "sex": "Female",
+     "continent": "Asia",
+     "release_year": 5
+   },
+   "Thunderbird": {
+     "primary_options": [
+       "ASSAULT RIFLE",
+       "SHOTGUN"
+     ],
+     "secondary_options": [
+       "Machine Pistol",
+       "HANDGUN"
+     ],
+     "orgs": [
+       "Wolfguard"
+     ],
+     "role": [
+       "SUPPORT"
+     ],
+     "speed": 2,
+     "health": 2,
+     "difficulty": 1,
+     "gadgets": [
+       "Barbed Wire",
+       "Bulletproof camera"
+     ],
+     "sex": "Female",
+     "continent": "North America",
+     "release_year": 6
+   },
+   "Thorn": {
+     "primary_options": [
+       "SHOTGUN"
+     ],
+     "secondary_options": [
+       "HANDGUN",
+       "Machine Pistol"
+     ],
+     "orgs": [
+       "Redhammer"
+     ],
+     "role": [
+       "ANTI-ENTRY, ",
+       "TRAPPER"
+     ],
+     "speed": 2,
+     "health": 2,
+     "difficulty": 1,
+     "gadgets": [
+       "Deployable Shield",
+       "Barbed Wire"
+     ],
+     "sex": "Female",
+     "continent": "Europe",
+     "release_year": 6
+   },
+   "Azami": {
+     "primary_options": [
+       "SHOTGUN"
+     ],
+     "secondary_options": [
+       "HANDGUN"
+     ],
+     "orgs": [
+       "Viperstrike"
+     ],
+     "role": [
+       "ANTI-ENTRY, ",
+       "SUPPORT"
+     ],
+     "speed": 2,
+     "health": 2,
+     "difficulty": 3,
+     "gadgets": [
+       "Impact Grenade",
+       "Barbed Wire"
+     ],
+     "sex": "Female",
+     "continent": "Asia",
+     "release_year": 7
+   },
+   "Solis": {
+     "primary_options": [
+       "SUBMACHINE GUN",
+       "SHOTGUN"
+     ],
+     "secondary_options": [
+       "Machine Pistol"
+     ],
+     "orgs": [
+       "Ghosteyes"
+     ],
+     "role": [
+       "Intel, ",
+       "SUPPORT"
+     ],
+     "speed": 2,
+     "health": 2,
+     "difficulty": 3,
+     "gadgets": [
+       "Impact Grenade",
+       "Bulletproof camera"
+     ],
+     "sex": "Female",
+     "continent": "South America",
+     "release_year": 7
+   },
+   "Fenrir": {
+     "primary_options": [
+       "SUBMACHINE GUN",
+       "SHOTGUN"
+     ],
+     "secondary_options": [
+       "HANDGUN",
+       "HANDGUN"
+     ],
+     "orgs": [
+       "Redhammer"
+     ],
+     "role": [
+       "TRAPPER, ",
+       "CROWD CONTROL"
+     ],
+     "speed": 2,
+     "health": 2,
+     "difficulty": 3,
+     "gadgets": [
+       "Barbed Wire",
+       "Bulletproof camera"
+     ],
+     "sex": "Male",
+     "continent": "Europe",
+     "release_year": 8
+   },
+   "Ram": {
+     "primary_options": [
+       "ASSAULT RIFLE",
+       "Light Machine Gun"
+     ],
+     "secondary_options": [
+       "SHOTGUN",
+       "HANDGUN"
+     ],
+     "orgs": [
+       "Redhammer"
+     ],
+     "role": [
+       "BREACH"
+     ],
+     "speed": 3,
+     "health": 1,
+     "difficulty": 2,
+     "gadgets": [
+       "Smoke Grenade",
+       "Stun Grenade"
+     ],
+     "sex": "Female",
+     "continent": "Asia",
+     "release_year": 8
+   },
+   "Tubarao": {
+     "primary_options": [
+       "SUBMACHINE GUN",
+       "ASSAULT RIFLE"
+     ],
+     "secondary_options": [
+       "HANDGUN"
+     ],
+     "orgs": [
+       "Wolfguard"
+     ],
+     "role": [
+       "ANTI-ENTRY, ",
+       "ANTI-GADGET"
+     ],
+     "speed": 2,
+     "health": 2,
+     "difficulty": 2,
+     "gadgets": [
+       "Nitro Cell",
+       "PROXIMITY ALARM"
+     ],
+     "sex": "Male",
+     "continent": "Europe",
+     "release_year": 8
+   },
+   "Deimos": {
+     "primary_options": [
+       "ASSAULT RIFLE",
+       "SHOTGUN"
+     ],
+     "secondary_options": [
+       "HANDGUN"
+     ],
+     "orgs": [
+       "N/A"
+     ],
+     "role": [
+       "Intel, ",
+       "MAP CONTROL"
+     ],
+     "speed": 2,
+     "health": 2,
+     "difficulty": 2,
+     "gadgets": [
+       "Frag Grenade",
+       "HARD BREACH CHARGE",
+       "Smoke Grenade"
+     ],
+     "sex": "Male",
+     "continent": "N/A",
+     "release_year": 9
+   }
+ }
