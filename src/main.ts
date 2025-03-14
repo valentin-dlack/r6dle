@@ -6,5 +6,6 @@ async function bootstrap() {
   await app.listen(3000);
   //Console log to show that the app is running
   console.log(`Application is running on: ${await app.getUrl()}`);
+  // New comment to test the pipeline
 }
 bootstrap();
